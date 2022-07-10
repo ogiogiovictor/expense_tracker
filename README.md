@@ -11,6 +11,7 @@
 - React
 - Redux & Hooks
 
+![image](https://user-images.githubusercontent.com/46789910/178154885-68e081a4-c927-4188-9bde-d75ca737edd3.png)
 
 ## Getting Started
 
