@@ -12,7 +12,7 @@
 - Redux & Hooks
 
 ## Live Demo
-Cooming Soom
+(Live Link) [https://ogiogiovictor.github.io/expense_tracker/]
 
 
 ## Getting Started
