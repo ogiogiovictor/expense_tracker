@@ -7,6 +7,8 @@ import './Expenses.css';
 import ExpensesFilter from './ExpenseFilter';
 import './ExpenseFilter.css';
 
+import ExpensesChart from './ExpensesChart';
+
 const Expenses = (props) => {
 
   const [filteredYear, setFilteredYear] = useState('2020');
@@ -24,6 +26,8 @@ const Expenses = (props) => {
      <Fragment>
         <Card className='expenses'>
         <ExpensesFilter selected={filteredYear} onChangeFilter={filterChangeHandler} />
+
+        <ExpensesChart expenses={filteredExpenses} />
 
         {filteredExpenses.length === 0 ? 
         <p className='expenses-list__fallback'>No Expenses found</p> : 
