@@ -7,7 +7,7 @@
 
 - HTML
 - CSS (Flexbox)
-- Linters: Webhint, Stylelint & ESLint
+- Linters: Stylelint & ESLint
 - React
 - Redux & Hooks
 
