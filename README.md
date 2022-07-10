@@ -11,9 +11,6 @@
 - React
 - Redux & Hooks
 
-## Live Demo
-(Live Link) [https://ogiogiovictor.github.io/expense_tracker/]
-
 
 ## Getting Started
 
@@ -23,7 +20,9 @@ To get a local copy up and running follw these simple example steps:
     - Clone the repo with git clone using the link below
     - git clone https://github.com/ogiogiovictor/expense_tracker.git
     - $ Once the report has been cloned change the project directory by cd into the directory
-    - $ cd into the todo list from your teminal.
+    - $ cd into the expense tracker from your teminal.
+    - $ then run npm install to install the node_modules folders.
+    - $ Once the folders are install run npm start
 ```
 Important: Once you have downloaded the code, run npm install, to install all dependencies of the project for it to work properly.
 
